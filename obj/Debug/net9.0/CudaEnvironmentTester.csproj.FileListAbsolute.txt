@@ -1,0 +1,17 @@
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\bin\Debug\net9.0\CudaEnvironmentTester.exe
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\bin\Debug\net9.0\CudaEnvironmentTester.deps.json
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\bin\Debug\net9.0\CudaEnvironmentTester.runtimeconfig.json
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\bin\Debug\net9.0\CudaEnvironmentTester.dll
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\bin\Debug\net9.0\CudaEnvironmentTester.pdb
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\bin\Debug\net9.0\ManagedCuda.netCore.dll
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.csproj.AssemblyReference.cache
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.AssemblyInfoInputs.cache
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.AssemblyInfo.cs
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.csproj.CoreCompileInputs.cache
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvi.B1F761EF.Up2Date
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.dll
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\refint\CudaEnvironmentTester.dll
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.pdb
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.genruntimeconfig.cache
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\ref\CudaEnvironmentTester.dll

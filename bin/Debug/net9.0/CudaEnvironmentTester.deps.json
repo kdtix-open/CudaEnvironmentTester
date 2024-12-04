@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CudaEnvironmentTester/1.0.0": {
+        "dependencies": {
+          "ManagedCuda-12": "12.4.57"
+        },
+        "runtime": {
+          "CudaEnvironmentTester.dll": {}
+        }
+      },
+      "ManagedCuda-12/12.4.57": {
+        "runtime": {
+          "lib/net7.0/ManagedCuda.netCore.dll": {
+            "assemblyVersion": "12.4.57.0",
+            "fileVersion": "12.4.57.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CudaEnvironmentTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagedCuda-12/12.4.57": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EwO0IlCjoBsKUWSn72Li79mJsGNz0SnoU/yPkpPzW5UdJDOTciIOQIGWGcqLbWwWvB+CvjhK4ZUTPCnbJTlerg==",
+      "path": "managedcuda-12/12.4.57",
+      "hashPath": "managedcuda-12.12.4.57.nupkg.sha512"
+    }
+  }
+}
