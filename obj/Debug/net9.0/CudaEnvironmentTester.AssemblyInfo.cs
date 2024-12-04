@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CudaEnvironmentTester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a74773940790680adbd39751706a5f50cde59c76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad095637e8e66b7a522681475a065d95ab1c277f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CudaEnvironmentTester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CudaEnvironmentTester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

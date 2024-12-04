@@ -15,3 +15,4 @@ C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\refin
 C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.pdb
 C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.genruntimeconfig.cache
 C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\ref\CudaEnvironmentTester.dll
+C:\Users\Chris Kreager\source\repos\CudaEnvironmentTester\obj\Debug\net9.0\CudaEnvironmentTester.sourcelink.json
